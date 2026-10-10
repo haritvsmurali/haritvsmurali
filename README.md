@@ -4,73 +4,81 @@
 
 I'm interested in building a more open, private and user-controlled digital world.
 
-I enjoy exploring **open-source technologies, privacy-respecting alternatives, self-hostable services and homelab setups** — learning how things work, experimenting with different tools, and finding ways to rely less on closed platforms.
+I enjoy exploring **open-source technologies, end-to-end encrypted services, self-hostable alternatives and homelab setups**. I'm always looking for ways to own my data, reduce reliance on Big Tech, and move towards a more independent digital life.
 
-I believe technology should empower its users, respect their privacy, and give them greater control over their data.
+I believe technology should respect privacy, put users in control, and avoid locking essential features behind recurring subscriptions.
 
 ---
 
 ## 🛡️ What I Care About
 
-- 🔐 **Privacy & Security** — Reducing unnecessary tracking and choosing privacy-respecting tools.
-- 🌱 **Open Source** — Exploring community-driven software, contributing where I can, and learning from others.
-- 🕊️ **Digital Freedom** — Supporting user choice, data ownership, transparency and freedom from vendor lock-in.
-- 🏠 **Self-Hosting** — Exploring alternatives that let me host and manage my own services.
-- 🧪 **Homelab Experiments** — Testing tools, learning through hands-on projects, and documenting what I discover.
+- 🔐 **Privacy & Security** — Minimizing tracking, protecting personal data, and prioritizing end-to-end encryption wherever practical.
+- 🌱 **Open Source & FOSS** — Preferring free and open-source software that offers transparency, freedom and control.
+- 🕊️ **Digital Freedom** — Supporting data ownership, interoperability, user choice and freedom from vendor lock-in.
+- 🔒 **End-to-End Encryption** — Prioritizing services where only the intended participants can access the content of their communications and data.
+- 💸 **No-Subscription Philosophy** — Preferring FOSS, self-hosted solutions, or one-time/lifetime purchases over recurring subscriptions whenever possible.
+- 🏠 **Self-Hosting** — Running my own services where practical to gain more control over my data and infrastructure.
+- 🚫 **Less Big Tech Dependence** — Gradually de-Googling and de-Microsofting my digital life, replacing services where suitable alternatives exist.
 
 ## 🏠 Self-Hosting & Homelab
 
-I'm particularly interested in services that can be self-hosted, giving users more control over their data and infrastructure.
+I'm particularly interested in self-hostable services that provide greater control, privacy and independence.
 
 Things I'm exploring include:
 
 - ☁️ Personal cloud storage and file synchronisation
-- 🔒 DNS filtering, network privacy and secure browsing
-- 🗄️ Home servers, backups and data ownership
+- 🔐 Encrypted communication, storage and backups
+- 🌐 DNS filtering, network privacy and secure browsing
+- 🗄️ Home servers, self-hosted applications and data ownership
 - 🎵 Self-hosted media and personal libraries
-- 🐧 Linux, open-source operating systems and privacy-focused software
-- 🔧 Open-source alternatives to everyday applications
+- 🐧 Linux, privacy-focused operating systems and open-source software
+- 🔄 Alternatives to subscription-based and Big Tech services
 
-My approach is simple: **explore, experiment, learn and share.**
+My approach is simple: **self-host when practical, choose FOSS when possible, and pay once rather than subscribe when it makes sense.**
 
-## 🌐 My Digital Philosophy
+## 🌐 Reducing Big Tech Dependence
 
-> Your data. Your devices. Your choices.
+I'm gradually working towards a more independent digital setup.
 
-I prefer tools that are open, transparent, privacy-respecting and, where practical, self-hostable.
+- **De-Googling** — Exploring alternatives to Google services and reducing dependence on its ecosystem.
+- **De-Microsofting** — Exploring Linux, open-source productivity tools and alternatives to Microsoft services.
+- **Privacy-first choices** — Evaluating services based on privacy, encryption, transparency and data ownership.
+- **Avoiding vendor lock-in** — Preferring open formats, data portability and tools that make it easier to switch.
 
-I don't believe every service needs to be self-hosted or every proprietary tool needs replacing. I value understanding the trade-offs and making informed choices.
+This is an ongoing journey, not an all-or-nothing goal. I choose alternatives based on their practicality, security and suitability for my needs.
 
 ## 🧰 Technologies & Tools
 
 **Operating Systems**
-- Linux
-- Privacy-focused and open-source operating systems
+- Linux and open-source operating systems
+- Privacy-focused mobile and desktop alternatives
 
-**Infrastructure & Self-Hosting**
+**Self-Hosting & Infrastructure**
 - Home servers and homelab environments
-- Self-hosted applications and personal cloud services
-- Network privacy and DNS tools
+- Personal cloud and file synchronisation
+- DNS filtering and network privacy
+- Backup and data management solutions
 
-**Software & Digital Independence**
-- Open-source productivity tools
-- Privacy-respecting alternatives
+**Digital Independence**
+- FOSS and open-source productivity tools
+- End-to-end encrypted services
+- Subscription-free and self-hosted alternatives
 - Data portability and interoperability
 
 ## 🚀 Projects & Contributions
 
-I use this space to explore open-source projects, experiment with useful tools and document my journey towards a more independent digital setup.
+I use GitHub to explore open-source projects, experiment with useful tools, contribute where I can, and document what I learn.
 
-Check out my repositories for projects, experiments and contributions.
+I'm particularly interested in projects that improve privacy, reduce dependence on proprietary ecosystems, and give users more control over their digital lives.
 
 ➡️ [Explore my repositories](https://github.com/haritvsmurali?tab=repositories)
 
 ## 🤝 Connect & Collaborate
 
-I'm always interested in discovering useful open-source projects, learning from the community and contributing to tools that make technology more open and accessible.
+I'm always interested in discovering useful FOSS projects, learning about self-hosting, and connecting with people who care about privacy, encryption and digital freedom.
 
-If you're passionate about privacy, self-hosting, open source or digital freedom, let's connect!
+If you're working towards a more private, open and independent digital world, let's connect!
 
 ---
 
-<sub>Exploring a more open internet, one experiment at a time. 🌱</sub>
+<sub>Less tracking. Less lock-in. Fewer subscriptions. More control. 🌱</sub>
