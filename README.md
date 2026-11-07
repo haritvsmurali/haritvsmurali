@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Exploring+Privacy-first+Technology;Building+a+More+Open+Digital+World;Self-hosting+%26+Digital+Freedom;Less+Lock-in.+More+Control." alt="Animated tagline" />
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=haritvsmurali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/haritvsmurali?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Repositories-2ea44f?style=flat&logo=github" alt="Explore repositories" />
-  </a>
-</p>
-
 </div>
 
 ---
@@ -48,30 +41,19 @@ I use GitHub to explore open-source projects, experiment with useful tools, cont
 
 I'm particularly interested in projects that improve privacy, reduce dependence on proprietary ecosystems, and give users more control over their digital lives.
 
-<div align="center">
-
-<a href="https://github.com/haritvsmurali?tab=repositories">
-  <img src="https://img.shields.io/badge/🧭%20Explore%20my%20repositories-Click%20here-blue?style=for-the-badge" alt="Explore my repositories" />
-</a>
-
-</div>
+➡️ [Explore my repositories](https://github.com/haritvsmurali?tab=repositories)
 
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<a href="https://github.com/haritvsmurali">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haritvsmurali&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Hari's GitHub stats" />
-</a>
-<a href="https://github.com/haritvsmurali">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=haritvsmurali&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=haritvsmurali&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="GitHub stats" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=haritvsmurali&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 <br/>
 
-<a href="https://github.com/haritvsmurali">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haritvsmurali&theme=github-compact&hide_border=true" alt="GitHub activity graph" width="100%" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haritvsmurali&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
 
 </div>
 
