@@ -47,13 +47,14 @@ I'm particularly interested in projects that improve privacy, reduce dependence 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=haritvsmurali&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="GitHub stats" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=haritvsmurali&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/haritvsmurali">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=haritvsmurali&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&cache_seconds=86400" alt="GitHub stats" />
+</a>
+<a href="https://github.com/haritvsmurali">
+  <img height="170" src="https://streak-stats.demolab.com?user=haritvsmurali&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haritvsmurali&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
 
 </div>
 
