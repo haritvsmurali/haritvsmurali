@@ -80,6 +80,6 @@ If you're working towards a more private, open and independent digital world, le
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/haritvsmurali/haritvsmurali/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/haritvsmurali/haritvsmurali/main/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
 
 </div>
