@@ -5,7 +5,7 @@
 ### Privacy • Open Source • Digital Freedom
 
 <a href="https://github.com/haritvsmurali">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Exploring+Privacy-first+Technology;Building+a+More+Open+Digital+World;Self-hosting+%26+Digital+Freedom;Less+Lock-in.+More+Control." alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4500&pause=500&color=2F81F7&center=true&vCenter=true&width=850&lines=Exploring+Privacy-first+Technology;Building+a+More+Open+Digital+World;Self-hosting+%26+Digital+Freedom;Less+Lock-in.+More+Control.&repeat=false&direction=left" alt="Animated tagline" />
 </a>
 
 </div>
